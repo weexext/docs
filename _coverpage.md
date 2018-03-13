@@ -4,5 +4,5 @@
 
 [GitHub](https://github.com/weexext)
 [Get Started](教程/)
-
+![](_assets/weex_icon.jpeg)
 ![color](#f8f8f8)
