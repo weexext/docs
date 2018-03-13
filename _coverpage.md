@@ -1,6 +1,6 @@
 # **WEEX EXT**
 
-> 知识梳理
+> weex 拓展
 
 [GitHub](https://github.com/weexext)
 [Get Started](教程/)
