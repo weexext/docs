@@ -1,5 +1,4 @@
 * [教程](教程/)
-  * [配置项](https://docsify.js.org/#/zh-cn/plugins?id=navigation)
 * [组件](组件/)
 * [案例](案例/)
 * [发布更新](发布更新/)
