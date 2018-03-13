@@ -3,6 +3,6 @@
 > 知识梳理
 
 [GitHub](https://github.com/weexext)
-[Get Started](主页/)
+[Get Started](教程/)
 
 ![color](#f8f8f8)
