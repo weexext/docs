@@ -1,10 +1,7 @@
+* [主页](主页/)
+  * [配置项](https://docsify.js.org/#/zh-cn/plugins?id=navigation)
 * [组件](组件/)
+* [案例](案例/)
+* [发布更新](发布更新/)
 * [FAQ](FAQ/)
 * [版本](版本/)
-
-* 配置
-  * [配置项](https://docsify.js.org/#/zh-cn/plugins?id=navigation)
-  * [主题](themes.md)
-  * [使用插件](plugins.md)
-  * [Markdown 配置](markdown.md)
-  * [代码高亮](language-highlight.md)
